@@ -1,0 +1,5 @@
+std_msgs/String problem
+uint8 hand
+---
+uint8 dim
+bool status

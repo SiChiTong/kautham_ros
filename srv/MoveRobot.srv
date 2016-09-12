@@ -1,0 +1,4 @@
+uint32 Robot
+trajectory_msgs/JointTrajectoryPoint Pose
+---
+bool Collision

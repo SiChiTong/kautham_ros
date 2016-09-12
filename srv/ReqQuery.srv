@@ -1,0 +1,5 @@
+trajectory_msgs/JointTrajectoryPoint Init
+trajectory_msgs/JointTrajectoryPoint Goal
+---
+bool status
+trajectory_msgs/JointTrajectory plan

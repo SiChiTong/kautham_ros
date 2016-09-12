@@ -1,0 +1,7 @@
+uint32 obstGoal 
+---
+bool status
+trajectory_msgs/JointTrajectory SimPlan
+trajectory_msgs/JointTrajectory Plan
+uint32[] ObstColl
+uint32[] SampColl

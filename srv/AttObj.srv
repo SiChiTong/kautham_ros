@@ -1,0 +1,4 @@
+uint8 Robot
+uint8 Obj
+---
+bool status
